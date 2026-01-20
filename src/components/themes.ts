@@ -1,6 +1,6 @@
 export const theme = {
   cores: {
-    principal: '#ffffff',
-    secundaria: '#2c2c54'
+    principal: '#a7727d',
+    secundaria: '#f9f5e7'
   }
 }
